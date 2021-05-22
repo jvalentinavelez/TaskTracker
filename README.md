@@ -4,7 +4,7 @@ https://jvalentinavelez.github.io/TaskTracker
 
 Task tracker, works with React basics such as components, props, state, hooks and API
 
-# Source: React JS Crash Course 2021 – https://www.youtube.com/watch?v=w7ejDZ8SWv8
+Source: React JS Crash Course 2021 – https://www.youtube.com/watch?v=w7ejDZ8SWv8
 
 # Getting Started with Create React App
 
